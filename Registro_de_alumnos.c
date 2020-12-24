@@ -21,7 +21,7 @@ int main(){
 		printf("3. Listar alumnos\n");
 		printf("4. Eliminar un alumno de la base\n");
 		printf("9. salir\n");
-        printf("ingrese una opcion: ");
+        	printf("ingrese una opcion: ");
 		scanf("%d", &opcion);
 
 	switch(opcion){
