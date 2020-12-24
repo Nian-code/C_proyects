@@ -15,9 +15,9 @@ int main(){
 
 
     while(bandera==1){
-        printf("\n");
+       		printf("\n");
 		printf("1. Ingresar alumnos a la base \n");
-        printf("2. Buscar un alumno en la base\n");
+        	printf("2. Buscar un alumno en la base\n");
 		printf("3. Listar alumnos\n");
 		printf("4. Eliminar un alumno de la base\n");
 		printf("9. salir\n");
